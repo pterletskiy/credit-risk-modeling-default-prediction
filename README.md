@@ -39,7 +39,7 @@ The models were benchmarked using metrics crucial for credit risk:
 The **CatBoost** model emerged as the top performer, demonstrating superior handling of the complex, high-dimensional categorical features inherent in credit applications.
 
 ![CatBoost Feature Importance](visualizations/cat_boost_features.png)
-*Figure: Top features driving the default prediction (e.g., Interest Rate, Out of Principle, Total Payment).*
+*Figure: Top features driving the default prediction (e.g., Interest Rate, Remaining Outstanding Principle, Total Number of Done Payments).*
 
 ---
 
